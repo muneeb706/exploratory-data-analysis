@@ -1,6 +1,6 @@
-# Data Incubator Challenges
+# Exploratory Data Analysis
 
-Following is the list of challenges with description:
+Following is the list of the problems with description for exploratory data analysis:
  - ## Coin Drawing
    Coins with values 1 through N (inclusive) are placed into a bag. 
    All the coins from the bag are iteratively drawn (without replacement) at random. 
